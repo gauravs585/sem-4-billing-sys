@@ -434,31 +434,3 @@ if __name__=='__main__':
     application = ItemOrder(root)
     root.mainloop()
         
-
-
-
-
-
-
-
-
-
-
-
-
-        
-        
-
-
-
-
-
-
-
-
-
-
-
-
-        
-        
